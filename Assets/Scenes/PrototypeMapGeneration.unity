@@ -1805,6 +1805,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: G1 Room (Vantage)
       objectReference: {fileID: 0}
+    - target: {fileID: 2788671453934971417, guid: 1ba01105fb3b7ce49844bacad078ce50,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2788671453934971418, guid: 1ba01105fb3b7ce49844bacad078ce50,
         type: 3}
       propertyPath: m_RootOrder
